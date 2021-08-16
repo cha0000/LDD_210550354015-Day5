@@ -1,0 +1,1 @@
+cmd_/home/chakri/device-Drivers/Day5/program3/my_cal_driver.mod := { echo  /home/chakri/device-Drivers/Day5/program3/my_cal_driver.o;  echo; } > /home/chakri/device-Drivers/Day5/program3/my_cal_driver.mod
